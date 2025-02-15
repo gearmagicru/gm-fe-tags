@@ -1,13 +1,7 @@
 {
     "name": "gearmagicru/gm-fe-tags",
-    "description": "Module \"Site material tags\"",
-    "keywords": [
-        "gm",
-        "gearmagic",
-        "site",
-        "module",
-        "tags"
-    ],
+    "description": "Website module \"Site material tags\"",
+    "keywords": ["gearmagic", "gm-panel", "gm-component", "gm-module", "module", "tags"],
     "homepage": "https://apps.gearmagic.ru/component/gm-fe-tags",
     "type": "component",
     "license": "MIT",
